@@ -8,5 +8,4 @@ Types of APIs other than REST are:
 2. JSON RPC and XML RPC
 
 If a website is using REST API, its data will always be in JSON format.
-
 https://stoplight.io/api-types/
