@@ -8,7 +8,6 @@ fs.mkdirSync("newFolder")
 
 // const file_read = fs.readFileSync("nayaFile.js")
 
-
 // const noBits = file_read.toString();
 // console.log(noBits);
 
