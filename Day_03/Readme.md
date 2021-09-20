@@ -16,6 +16,7 @@ STEP 1: OPEN 2 wsls
 redis-cli -u redis://bdff23be171a4f9eafb8be42a7ed9f1a@usw1-neutral-lynx-31383.upstash.io:31383
     
   ```
+  
   6. Then simply write: 
   SUBSCRIBE devnest 
 
